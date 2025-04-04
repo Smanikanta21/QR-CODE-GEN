@@ -26,10 +26,12 @@ This is a simple **QR Code Generator** that allows users to create QR codes for 
 - `script.js` – Functionality for QR generation  
 
 ## 🌟 Live Demo  
-[🔗 Check it out here](#) *(Add your live link if hosted!)*  
+https://smanikanta21.github.io/QR-CODE-GEN/
 
 ## 📩 Contact  
-For any questions or suggestions, feel free to reach out!  
+Email: siraparapuabhinay21@gmail.com
+Linkedin: https://www.linkedin.com/in/siraparapu-shiva-sankar-mani-kanta-622a85323/
+Instagram: https://www.instagram.com/abhi._.nay
 
 ---
 💡 **Built with passion!** 🎨🔥  
