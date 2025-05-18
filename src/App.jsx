@@ -48,7 +48,7 @@ function App() {
             <button type="button" id="download">Download</button>
           </form>
           <div className='h-56 w-56 rounded-2xl border-white shadow-lg items-center flex justify-center' id='qrResult'>
-            {<QrCode className=' text-black opacity-25' size={200} />}
+            {<QrCode className=' text-black opacity-25 hover:transform-' size={200} />}
           </div>
         </div>
       </div>
