@@ -1,37 +1,12 @@
-# QR Code Generator
+# React + Vite
 
-## 📌 About  
-This is a simple **QR Code Generator** that allows users to create QR codes for text, URLs, and emails instantly. The project is built using **HTML, CSS, and JavaScript** and ensures a responsive and smooth user experience.  
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 🎯 Features  
-✅ Generate QR codes for text, URLs, and emails  
-✅ Supports **copy-paste** functionality  
-✅ Click the QR code for a smooth **bump animation**  
-✅ Fully **responsive** and mobile-friendly  
+Currently, two official plugins are available:
 
-## 🛠️ Tech Stack  
-- **HTML** for structure  
-- **CSS** for styling and responsiveness  
-- **JavaScript** for dynamic functionality  
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## 🚀 How to Use  
-1. **Enter text, a URL, or an email** in the input box  
-2. Click **"Generate"** to create a QR code  
-3. Click the QR code for a **cool animation**  
-4. Use the **paste** button to insert clipboard text  
+## Expanding the ESLint configuration
 
-## 📂 Project Files  
-- `index.html` – Main webpage  
-- `styles.css` – Styling and layout  
-- `script.js` – Functionality for QR generation  
-
-## 🌟 Live Demo  
-https://smanikanta21.github.io/QR-CODE-GEN/
-
-## 📩 Contact  
-Email: siraparapuabhinay21@gmail.com
-Linkedin: https://www.linkedin.com/in/siraparapu-shiva-sankar-mani-kanta-622a85323/
-Instagram: https://www.instagram.com/abhi._.nay
-
----
-💡 **Built with passion!** 🎨🔥  
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
